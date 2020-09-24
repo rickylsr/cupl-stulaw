@@ -2,6 +2,7 @@
 
 * [学活办公室安全卫生检查条例](README.md)
 * [prefix\_05f9f165d28b0b89a373af72f0065b3a](prefix_05f9f165d28b0b89a373af72f0065b3a.md)
+* [prefix\_6f652d605b51ae9c3a0912bce61c4030](prefix_6f652d605b51ae9c3a0912bce61c4030.md)
 * [prefix\_1943fbb6b5f6521a9a68963879d12333](prefix_1943fbb6b5f6521a9a68963879d12333.md)
 * [prefix\_1b56b8b13cebbb7d9252eec1ec9c7f98](prefix_1b56b8b13cebbb7d9252eec1ec9c7f98.md)
 * [prefix\_24765610c4cdd7df9f749f22f21c0e5e](prefix_24765610c4cdd7df9f749f22f21c0e5e.md)
@@ -15,7 +16,6 @@
 * [prefix\_42ce7f7c3c599c37c78b8615b7fc5239](prefix_42ce7f7c3c599c37c78b8615b7fc5239.md)
 * [prefix\_4c78c651c168ceeaad13cb874ab95960](prefix_4c78c651c168ceeaad13cb874ab95960.md)
 * [prefix\_6deec3211614f890a95c13f5218a440c](prefix_6deec3211614f890a95c13f5218a440c.md)
-* [prefix\_6f652d605b51ae9c3a0912bce61c4030](prefix_6f652d605b51ae9c3a0912bce61c4030.md)
 * [prefix\_796122e3b3e3dce4ec04f1392a46e3ff](prefix_796122e3b3e3dce4ec04f1392a46e3ff.md)
 * [prefix\_8391472c59f0e663156337bbcf22ca64](prefix_8391472c59f0e663156337bbcf22ca64.md)
 * [prefix\_85f9f3842767aceafd12ff762194c481](prefix_85f9f3842767aceafd12ff762194c481.md)
@@ -37,7 +37,11 @@
 * [prefix\_dfdd8f0a6175590ddee688d83b631108](prefix_dfdd8f0a6175590ddee688d83b631108.md)
 * [prefix\_e0b12dd6640102fac830f26630771126](prefix_e0b12dd6640102fac830f26630771126.md)
 * [prefix\_ec6728366a8cc2a686cde04e7d4c68be](prefix_ec6728366a8cc2a686cde04e7d4c68be.md)
-* [prefix\_f7b73f6480f8ee9933423d70139c09a8](prefix_f7b73f6480f8ee9933423d70139c09a8.md)
-* [prefix\_ff912e1a27751390d964f734e5e9c94b](prefix_ff912e1a27751390d964f734e5e9c94b.md)
+* [提案落实情况报告（2016）](prefix_f7b73f6480f8ee9933423d70139c09a8.md)
+* [全体委员会议文件工作办法](prefix_ff912e1a27751390d964f734e5e9c94b.md)
 * [prefix\_readme](prefix_readme.md)
+
+## 全体委员会议通过的文件
+
+* [Untitled](quan-ti-wei-yuan-hui-yi-tong-guo-de-wen-jian/untitled.md)
 
