@@ -31,17 +31,19 @@
 * [prefix\_c397c37a5762c91bc5e480b99dae656f](prefix_c397c37a5762c91bc5e480b99dae656f.md)
 * [prefix\_c9cbba12b45861a76e78b5b15182c074](prefix_c9cbba12b45861a76e78b5b15182c074.md)
 * [prefix\_cf0dc3edb4a9da94b084804577151905](prefix_cf0dc3edb4a9da94b084804577151905.md)
-* [prefix\_d5fee3995aa538a913b060cb56de4be2](prefix_d5fee3995aa538a913b060cb56de4be2.md)
 * [prefix\_d68fcbe6ce0da59452c6b8edf82bb18d](prefix_d68fcbe6ce0da59452c6b8edf82bb18d.md)
-* [prefix\_da23b875a363d92ef90aed2c1fbadef4](prefix_da23b875a363d92ef90aed2c1fbadef4.md)
-* [prefix\_dfdd8f0a6175590ddee688d83b631108](prefix_dfdd8f0a6175590ddee688d83b631108.md)
-* [prefix\_e0b12dd6640102fac830f26630771126](prefix_e0b12dd6640102fac830f26630771126.md)
 * [prefix\_ec6728366a8cc2a686cde04e7d4c68be](prefix_ec6728366a8cc2a686cde04e7d4c68be.md)
-* [提案落实情况报告（2016）](prefix_f7b73f6480f8ee9933423d70139c09a8.md)
-* [全体委员会议文件工作办法](prefix_ff912e1a27751390d964f734e5e9c94b.md)
 * [prefix\_readme](prefix_readme.md)
 
 ## 全体委员会议通过的文件
 
-* [Untitled](quan-ti-wei-yuan-hui-yi-tong-guo-de-wen-jian/untitled.md)
+* [提案落实情况报告（2016）](quan-ti-wei-yuan-hui-yi-tong-guo-de-wen-jian/prefix_f7b73f6480f8ee9933423d70139c09a8.md)
+* [全体委员会议文件工作办法](quan-ti-wei-yuan-hui-yi-tong-guo-de-wen-jian/prefix_ff912e1a27751390d964f734e5e9c94b.md)
+* [prefix\_da23b875a363d92ef90aed2c1fbadef4](quan-ti-wei-yuan-hui-yi-tong-guo-de-wen-jian/prefix_da23b875a363d92ef90aed2c1fbadef4.md)
+* [prefix\_d5fee3995aa538a913b060cb56de4be2](quan-ti-wei-yuan-hui-yi-tong-guo-de-wen-jian/prefix_d5fee3995aa538a913b060cb56de4be2.md)
+
+## 全体委员会议公报
+
+* [prefix\_e0b12dd6640102fac830f26630771126](quan-ti-wei-yuan-hui-yi-gong-bao/prefix_e0b12dd6640102fac830f26630771126.md)
+* [prefix\_dfdd8f0a6175590ddee688d83b631108](quan-ti-wei-yuan-hui-yi-gong-bao/prefix_dfdd8f0a6175590ddee688d83b631108.md)
 
