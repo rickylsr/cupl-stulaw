@@ -8,7 +8,7 @@
 
 \*\*本系统正在建设中。\*\*
 
-!\[\]\(http://cdn1.rickylee.cn/2020-07-08\_5f0528dcb031d.png\)
+!\[\]\([http://cdn1.rickylee.cn/2020-07-08\_5f0528dcb031d.png\](http://cdn1.rickylee.cn/2020-07-08_5f0528dcb031d.png\)\)
 
 ## 使用者
 
@@ -60,5 +60,5 @@
 
 \[========\]
 
-\[京ICP备20025124号\]\(http://www.beian.miit.gov.cn "京ICP备20025124号"\)
+\[京ICP备20025124号\]\([http://www.beian.miit.gov.cn](http://www.beian.miit.gov.cn) "京ICP备20025124号"\)
 
