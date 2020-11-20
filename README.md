@@ -11,14 +11,15 @@
 
 - 中国政法大学第二十届学生代表大会[全记录](https://doc.rickylee.cn/web/#/5?page_id=78)，点击查看
 - **第二十届学生委员会全体委员会议组成：**
-<center>
 
-![20thstucon_stucture](https://cdn.jsdelivr.net/gh/rickylsr/stulaw/img/二十届学委会组成.svg)
-<br><font color="23B1E8">█</font>　**当选委员　　（30席）**
-<font color="BA1D20">█</font>　**当然委员　　（21席）**
+![20thstucon_stucture](https://cdn.jsdelivr.net/gh/rickylsr/stulaw/img/二十届学委会组成.svg ':size=80%')
+<br><font color="007CFF">█</font>　**当选委员　　（30席）**
+<font color="7CCDFF">█</font>　**学生会主席、学委会主任**
+<br><font color="00468F">█</font>　**当然委员　　（21席）**
 
-> <font color="23B1E8">█</font> 当选委员由校代会差额选举产生
-> <font color="BA1D20">█</font> 各院学生委员会主任、学生会主席是当然委员，不经学代会的选举产生
+> <font color="23B1E8">█</font> 当选委员由校代会差额选举产生，学生会主席、学委会主任从当选委员中经学代会选举产生
+
+> <font color="00468F">█</font> 各院学生委员会主任、学生会主席是当然委员，不经学代会的选举产生
 
 </center>
 
@@ -73,7 +74,4 @@
 ~~只有经过授权的人才能编辑本系统中的文件.~~
 
 ~~对本系统内文件进行编辑修改需要得到中国政法大学学生委员会主任的批准.~~
-
-
-<center>[京ICP备20025124号](http://www.beian.miit.gov.cn "京ICP备20025124号")</center>
 
