@@ -57,5 +57,5 @@
 ~~对本系统内文件进行编辑修改需要得到中国政法大学学生委员会主任的批准.~~
 
 
-<center>[京ICP备20025124号](http://www.beian.miit.gov.cn "京ICP备20025124号"\)</center>
+<center>[京ICP备20025124号](http://www.beian.miit.gov.cn "京ICP备20025124号")</center>
 
