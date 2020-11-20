@@ -11,7 +11,7 @@
 ![20thstucon_stucture](https://cdn.jsdelivr.net/gh/rickylsr/stulaw/img/二十届学委会组成.svg)
 
 <font color="007CFF">█</font>　**当选委员　　（28席）**
-<br><font color="7CCDFF">█</font>　**学生会主席 学委会主任**
+<br><font color="7CCDFF">█</font>　**学生会主席 学委会主任　　（2席）**
 <br><font color="00468F">█</font>　**当然委员　　（21席）**
 
 <font color="007CFF">█</font> 当选委员由校代会差额选举产生，学生会主席、学委会主任从当选委员中经学代会选举产生；<font color="00468F">█</font> 各院学生委员会主任、学生会主席是当然委员，不经学代会的选举产生。
