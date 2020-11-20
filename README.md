@@ -6,21 +6,21 @@
 
 ?> 为获取更佳体验,请尽量使用电脑访问本网站.
 
-### 最新动态
-
-
-- 中国政法大学第二十届学生代表大会[全记录](https://doc.rickylee.cn/web/#/5?page_id=78)，点击查看
-- **第二十届学生委员会全体委员会议组成：**
+### 第二十届学生委员会
 
 ![20thstucon_stucture](https://cdn.jsdelivr.net/gh/rickylsr/stulaw/img/二十届学委会组成.svg)
 
-<br><font color="007CFF">█</font>　**当选委员　　（28席）**
+<font color="007CFF">█</font>　**当选委员　　（28席）**
 <br><font color="7CCDFF">█</font>　**学生会主席 学委会主任**
 <br><font color="00468F">█</font>　**当然委员　　（21席）**
 
 <font color="007CFF">█</font> 当选委员由校代会差额选举产生，学生会主席、学委会主任从当选委员中经学代会选举产生；<font color="00468F">█</font> 各院学生委员会主任、学生会主席是当然委员，不经学代会的选举产生。
 
 - 二十届学委会第一次全委会（[公报](https://doc.rickylee.cn/web/#/5?page_id=87 "公报")）任命王萌、许致嘉、张裕荣、罗彬瑜、胡天翊为第二十届校学生委员会副主任委员；任命王毅恒、李泽坤、张婧、薛心予为第二十届校学生会副主席；通过[二十届学生会工作部门设置及职能调整方案](https://doc.rickylee.cn/web/#/5?page_id=85 "二十届学生会工作部门设置及职能调整方案")。
+
+### 第二十次学生代表大会
+
+- 中国政法大学第二十届学生代表大会[全记录](https://doc.rickylee.cn/web/#/5?page_id=78)，点击查看
 
 ### 使用者
 
