@@ -12,7 +12,7 @@
 - 中国政法大学第二十届学生代表大会[全记录](https://doc.rickylee.cn/web/#/5?page_id=78)，点击查看
 - **第二十届学生委员会全体委员会议组成：**
 <center>
-![](https://cdn.jsdelivr.net/gh/rickylsr/stulaw/img/二十届学委会组成.svg)
+![20thstucon_stucture](https://cdn.jsdelivr.net/gh/rickylsr/stulaw/img/二十届学委会组成.svg)
 <br><font color="23B1E8">█</font>　**当选委员　　（30席）**
 <font color="BA1D20">█</font>　**当然委员　　（21席）**
 
