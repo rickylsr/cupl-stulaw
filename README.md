@@ -7,7 +7,7 @@
 ?> 为获取更佳体验,请尽量使用电脑访问本网站.
 
 ### 第二十届校学生委员会
-
+|  第二十届校学生委员会  | 第二十次校学代会  |
 |  ----  | ----  |
 | ![20thstucon_stucture](https://cdn.jsdelivr.net/gh/rickylsr/stulaw/img/二十届学委会组成.svg)  | ![二十届学代会代表](https://cdn.jsdelivr.net/gh/rickylsr/stulaw/img/20thdelegates.svg) |
 | <font color="007CFF">█</font>　**当选委员　　（28席）**<br><font color="7CCDFF">█</font>　**学生会主席 学委会主任　　（2席）**<br><font color="00468F">█</font>　**当然委员　　（21席）**  | <font color="4D76FF">█</font>　当选代表人数`178`　<br><font color="FFA2A2">█</font>　当然代表人数`47` |
