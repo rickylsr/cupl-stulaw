@@ -6,7 +6,7 @@
 
 ### 学生代表
 
-![二十届学代会代表](/img/20thdelegates.svg)
+![二十届学代会代表](https://cdn.jsdelivr.net/gh/rickylsr/stulaw/img/20thdelegates.svg)
 
 - <font color="4D76FF">█</font>　当选代表人数`178`　
 - <font color="FFA2A2">█</font>　当然代表人数`47`
