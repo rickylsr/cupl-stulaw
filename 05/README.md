@@ -8,8 +8,8 @@
 
 ![二十届学代会代表](/img/20thdelegates.svg)
 
-- 当然代表人数`47`
-- 当选代表人数`178`　　
+- <font color="4D76FF">█</font>　当选代表人数`178`　
+- <font color="FFA2A2">█</font>　当然代表人数`47`
 
 ### 会议进程
 
