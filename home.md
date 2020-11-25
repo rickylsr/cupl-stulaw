@@ -10,16 +10,9 @@
 |  第二十届校学生委员会  | 第二十次校学代会  |
 |  ----  | ----  |
 | ![20thstucon_stucture](https://cdn.jsdelivr.net/gh/rickylsr/stulaw/img/二十届学委会组成.svg)  | ![二十届学代会代表](https://cdn.jsdelivr.net/gh/rickylsr/stulaw/img/20thdelegates.svg) |
-| <font color="007CFF">█</font>　**当选委员　　（28席）**<br><font color="7CCDFF">█</font>　**学生会主席 学委会主任　　（2席）**<br><font color="00468F">█</font>　**当然委员　　（21席）**  | <font color="4D76FF">█</font>　当选代表人数`178`　<br><font color="FFA2A2">█</font>　当然代表人数`47` |
+| <font color="007CFF">█</font>　当选委员 （28席）<br><font color="7CCDFF">█</font>　学生会主席 学委会主任 （2席）<br><font color="00468F">█</font>　当然委员 （21席） | <font color="4D76FF">█</font>　当选代表 （178）<br><font color="FFA2A2">█</font>　当然代表人数 （47）|
 
-
-
-
-
-
-
-
-?> <font color="007CFF">█</font> 当选委员由校代会差额选举产生，学生会主席、学委会主任从当选委员中经学代会选举产生；<font color="00468F">█</font> 各院学生委员会主任、学生会主席是当然委员，不经学代会的选举产生。
+?> <font color="007CFF">█</font> 当选委员由校代会差额选举产生，学生会主席、学委会主任从当选委员中经学代会选举产生；<br><font color="00468F">█</font> 各院学生委员会主任、学生会主席是当然委员，不经学代会的选举产生。
 
 ### 第二十届校学生会部门设置与职能调整
 
