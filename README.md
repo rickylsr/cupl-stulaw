@@ -6,6 +6,10 @@ docsify所必须的唯一index.html位于doc分支，master分支仅用于编辑
 
 🔗 Github Pages [链接](https://rickylee.monster/blog) 🔗 [备用链接（CDN优化）](https://doc2.rickylee.monster)
 
+## 原理
+
+docsify通过在网页上运行的JavaScript脚本，加载特定目录的静态文档并整理成文件系统。具体原理请参考 🔗[docsify文档](https://docsify.js.org/#/zh-cn/)
+
 ## 目录说明
 
 - /home.md 首页
