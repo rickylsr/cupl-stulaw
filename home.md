@@ -66,7 +66,7 @@
 
 * [2016版](https://doc.rickylee.cn/web/#/5?page_id=28)　[2012版](https://doc.rickylee.cn/web/#/5?page_id=29)　 [2010版](https://doc.rickylee.cn/web/#/5?page_id=30)
 
-## 编辑者
+### 编辑者
 
 ~~只有经过授权的人才能编辑本系统中的文件.~~
 
