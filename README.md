@@ -4,7 +4,7 @@
 
 docsify所必须的唯一index.html位于doc分支，master分支仅用于编辑内容文件。
 
-🔗 Github Pages [链接](https://rickylee.monster/blog) 🔗 [备用链接（CDN优化）](https://doc2.rickylee.monster)
+🔗 Github Pages [链接](https://doc2.rickylee.monster/) 
 
 ## 原理
 
